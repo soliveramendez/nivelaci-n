@@ -1,0 +1,24 @@
+.slider {
+background: url(../img/paseo.jpg);
+height: 100vh;
+background-size: cover;
+background-position: center;
+}
+
+.galeria{
+height: 50vh;
+background-size: cover;
+background-position: center;
+}
+
+.fondo{
+background-color: azure;
+}
+
+.formulario{
+background-color: azure;
+}
+.nosotros{
+background-color: rgb(211, 198, 240);
+margin-bottom: 0%;
+}
